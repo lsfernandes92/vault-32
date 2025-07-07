@@ -1,0 +1,10 @@
+{
+  "cssTheme": "WY Console",
+  "accentColor": "#e35cf5",
+  "textFontFamily": "Fira Code",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "br_4_lines"
+  ],
+  "baseFontSize": 25
+}

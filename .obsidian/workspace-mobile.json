@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "963d4e49ee1a808c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4e36da86c6884a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "318fdf710f5f60a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. main notes/spaced repetition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "spaced repetition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acc0209762ba74af",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5dac211e103b204b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a32b6f3cff22ee1a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4cbab36c1fa5dfaa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6c51f559f81ba4d3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "75b2bb2132eaf4cc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cb81aab4c3ed8d37",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01. rough notes/day planner.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "138c3cc2ce719709",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "894802b4aec1fdba",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "318fdf710f5f60a9",
+  "lastOpenFiles": [
+    "06. main notes/open-closed principle (OCP).md",
+    "01. rough notes/available for hire.md",
+    "02. source materials/howto/how to practice vocabulary.md",
+    "01. rough notes/day planner.md",
+    "01. rough notes/quais eram as pautas de segurança pública do biroliro?.md",
+    "06. main notes/pósfacio (2019).md",
+    "06. main notes/oq significa o termo \"excludente de ilicitude\"?.md",
+    "01. rough notes/pee count.md",
+    "06. main notes/websocket at scale.md",
+    "02. source materials/howto/how to enable apple id.md",
+    "06. main notes/websocket.md",
+    "06. main notes/what is session affinity in a websocket connection?.md",
+    "02. source materials/piece of wisdom/how do we scale a websocket connection?.md",
+    "02. source materials/howto/how to declarar IR.md",
+    "02. source materials/piece of wisdom/composition vs inheritance.md",
+    "02. source materials/piece of wisdom/parameter vs argument.md",
+    "02. source materials/piece of wisdom/mixing objects responsibilities.md",
+    "06. main notes/composition.md",
+    "06. main notes/inheritance.md",
+    "06. main notes/encapsulation.md",
+    "01. rough notes/System Design Interview - A Step-By-Step Guide.md",
+    "01. rough notes/pósfacio 2019.md",
+    "02. source materials/books/desmilitarizar - luiz eduardo soares.md",
+    "06. main notes/segundo governo lula - retomando compromissos, ampliando repertórios, adiando questões polêmicas.md",
+    "06. main notes/governo fhc - timida gestação de um novo momento.md",
+    "06. main notes/governo lula - proposta audaciosa que a política abortou.md",
+    "Pasted image 20250603103026.png",
+    "04. indexes"
+  ]
+}
